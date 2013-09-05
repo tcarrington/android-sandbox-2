@@ -1,2 +1,2 @@
-android-sandbox-myfirstapp
+android-sandbox-2
 ==========================
